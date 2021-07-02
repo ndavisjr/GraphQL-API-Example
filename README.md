@@ -45,3 +45,5 @@ Process:
 16) Create Subscriptions.cs
 17) Add websockets to the pipeline in Startup.cs and subscription service to Services
 18) Update Mutation.cs to handle the subscriptions
+
+As an example project, .env variables are not set up.
